@@ -1,3 +1,6 @@
+//https://www.youtube.com/watch?v=40PXPm7xF3I
+//https://www.youtube.com/watch?v=kE0Vrtbw4Vw
+//https://maker.robotistan.com/engelden-kacan-robot-yapimi/?utm_source=youtube&utm_medium=aciklama&utm_campaign=engelden_kacan_video
 #include<SoftwareSerial.h>
 
 SoftwareSerial bt_iletisim(6, 7);
